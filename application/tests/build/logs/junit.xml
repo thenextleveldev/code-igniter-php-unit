@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Welcome_test" file="/home/elder/Documentos/workspace/tutorial/#1 Code Igniter 3 + PHPUnit + Unit Testing/www/public/application/tests/Welcome_test.php" tests="1" assertions="2" errors="0" failures="1" skipped="0" time="0.002504">
+    <testcase name="test_get_category_list" class="Welcome_test" classname="Welcome_test" file="/home/elder/Documentos/workspace/tutorial/#1 Code Igniter 3 + PHPUnit + Unit Testing/www/public/application/tests/Welcome_test.php" line="18" assertions="2" time="0.002504">
+      <failure type="PHPUnit\Framework\ExpectationFailedException">Welcome_test::test_get_category_list
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'VH'
++'CD'
+
+/home/elder/Documentos/workspace/tutorial/#1 Code Igniter 3 + PHPUnit + Unit Testing/www/public/application/tests/Welcome_test.php:29
+/home/elder/Documentos/workspace/tutorial/#1 Code Igniter 3 + PHPUnit + Unit Testing/www/public/vendor/phpunit/phpunit/phpunit:53
+</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
